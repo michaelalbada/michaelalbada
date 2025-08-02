@@ -1,6 +1,4 @@
 # Hi there 👋, I’m Michael
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code&
     size=24&
@@ -13,6 +11,8 @@
     lines=🔬+Principal+Applied+Scientist+@+Microsoft;🛡️+Scaling+AI+for+Cybersecurity;📕+Building Applications+with+AI Agents"
     alt="Typing SVG" />
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=ffffff&center=true&vCenter=true&width=700&lines=%F0%9F%94%AC+Principal+Applied+Scientist+%40+Microsoft;%F0%9F%9B%A1%EF%B8%8F+Scaling+AI+for+Cybersecurity;%F0%9F%93%95+Building+Applications+with+AI+Agents" alt="Typing SVG">
 
 ## 🔭 About Me
 - 🛡️ I'm currently building AI systems at Microsoft to help protect organizations from cyber attacks
