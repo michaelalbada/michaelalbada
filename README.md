@@ -10,14 +10,17 @@
     center=true&
     vCenter=true&
     width=600&
-    lines=Hi+there,+I’m+Michael+Albada;Principal+Applied+Scientist+@+Microsoft"
+    lines=🔬+Principal+Applied+Scientist+@+Microsoft;🛡️+Scaling+AI+for+Cybersecurity;📕+Building Applications+with+AI Agents"
     alt="Typing SVG" />
 </p>
 
 ## 🔭 About Me
-- 💼 Principal Applied Scientist at Microsoft  
-- 🌎 From Sonoma County, California
-- ✍️ Author of [Building Applications with AI Agents](https://www.oreilly.com/library/view/building-applications-with/9781098176495/)
+- 🛡️ I'm currently building AI systems at Microsoft to help protect organizations from cyber attacks
+- ✍️ In 2025, I published my first book, [Building Applications with AI Agents](https://www.oreilly.com/library/view/building-applications-with/9781098176495/)
+- 🔬 I also research and occasioanlly [publish on ML, AI, and cybersecurity](https://scholar.google.com/citations?user=_itMe78AAAAJ&hl=en)
+- 🌎 I grew up in Petaluma in Sonoma County, California.
+
+
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python · C# · Java · Go
@@ -37,5 +40,5 @@
 - 📝 [Substack](https://theneuralnexus.substack.com)
 - 📚 [GoodReads](https://www.goodreads.com/user/show/183363881-michael-albada)
 
-## 🎡 Fun Fact
+## ⚡ Fun Fact
 - 🦙 I grew up on a llama farm
