@@ -1,25 +1,10 @@
 # Hi there 👋, I’m Michael
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=24&
-    duration=4000&
-    pause=500&
-    color=ffffff&
-    center=true&
-    vCenter=true&
-    width=600&
-    lines=🔬+Principal+Applied+Scientist+@+Microsoft;🛡️+Scaling+AI+for+Cybersecurity;📕+Building Applications+with+AI Agents"
-    alt="Typing SVG" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=ffffff&center=true&vCenter=true&width=700&lines=%F0%9F%94%AC+Principal+Applied+Scientist+%40+Microsoft;%F0%9F%9B%A1%EF%B8%8F+Scaling+AI+for+Cybersecurity;%F0%9F%93%95+Building+Applications+with+AI+Agents" alt="Typing SVG">
 
 ## 🔭 About Me
 - 🛡️ I'm currently building AI systems at Microsoft to help protect organizations from cyber attacks
 - ✍️ In 2025, I published my first book, [Building Applications with AI Agents](https://www.oreilly.com/library/view/building-applications-with/9781098176495/)
 - 🔬 I also research and occasioanlly [publish on ML, AI, and cybersecurity](https://scholar.google.com/citations?user=_itMe78AAAAJ&hl=en)
 - 🌎 I grew up in Petaluma in Sonoma County, California.
-
 
 
 ## 🛠️ Skills & Tools
